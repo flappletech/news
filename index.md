@@ -15,4 +15,4 @@ Flapple released an all new line up recently, including:
  - Flapple Watch 3, 3 Plus, and 3 Pro, which comes in four colors.
 
 
-[Home](https://flappletech.github.io/news/)
+[Home](https://flappletech.github.io/home/)
